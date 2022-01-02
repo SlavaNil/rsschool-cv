@@ -1,2 +1,2 @@
-https://github.com/SlavaNil/rsschool-cv.git
-https://SlavaNil.github.io/rsschool-cv/cv
+https://github.com/slavanil/rsschool-cv.git
+https://slavanil.github.io/rsschool-cv/

@@ -4,7 +4,7 @@
 1. Contact Info:\
 Phone Number: +375290000000\
 E-mail: nvsnil@mail.ru\
-GitHub: [articlen](https://github.com/SlavaNil/rsschool-cv.git)\
+GitHub: [SlavaNil](https://github.com/SlavaNil/rsschool-cv.git)\
 Markdown: [CV](https://SlavaNil.github.io/rsschool-cv/cv)
 2. Summary:
 I work as an engineer for the repair of electronic equipment. I wanted to learn programming for further employment in the field of IT. I was advised to school RS. I decided to start studying with JScript. I will try to study the courses, although I have little free time. Achievement of the set goals of the goals allows you to plan for the future.

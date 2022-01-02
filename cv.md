@@ -1,9 +1,9 @@
 # Curriculum vitae
-![jpg](https://media.discordapp.net/attachments/830542980246274120/926869423585886248/IMG_20220101_190738.jpg?width=1035&height=591)
-### First Name, Last Name: *Ihar Navoichyk*
+![jpg](https://cdn.discordapp.com/attachments/918083434084192257/927208424494751775/a99b48291f26934b.png)
+### First Name, Last Name: *Slava Navoichyk*
 1. Contact Info:\
-Phone Number: +375291812363\
-E-mail: igor9os4a@gmail.com\
+Phone Number: +375290000000\
+E-mail: nvsnil@mail.ru\
 GitHub: [articlen](https://github.com/SlavaNil/rsschool-cv.git)\
 Markdown: [CV](https://SlavaNil.github.io/rsschool-cv/cv)
 2. Summary:
@@ -16,7 +16,8 @@ Graduated from:
 * BSUIR with a degree in Information Technology and Management Engineer.
 5. Code examples:\
 CSS 
-~~~ CSS
+~~~// CSS
+
 <style>
   .border{
     border: 1px solid #dee542;
@@ -26,6 +27,7 @@ CSS
     border-style: none;
   }
   </style>
+
   <p class="border" id="no-border">оторый имеет «вес» 1000, а это значит</p>
 ~~~ 
 HTML

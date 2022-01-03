@@ -15,7 +15,7 @@ Graduated from:
 secondary special education
 5. Code examples:\
 CSS 
-~~~// CS
+~~~ CSS
 <style>
   .border{
     border: 1px solid #dee542;

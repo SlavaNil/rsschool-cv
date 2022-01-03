@@ -7,27 +7,23 @@ E-mail: nvsnil@mail.ru\
 GitHub: [slavanil](https://github.com/slavanil/rsschool-cv.git)\
 Markdown: [CV](https://slavanil.github.io/rsschool-cv/cv)
 2. Summary:
-I work as an engineer for the repair of electronic equipment. I wanted to learn programming for further employment in the field of IT. I was advised to school RS. I decided to start studying with JScript. I will try to study the courses, although I have little free time. Achievement of the set goals of the goals allows you to plan for the future.
+I work as a manager for the sale of power equipment and finalize individual modules in the 1c 7.7 program for the company I work for. I wanted to learn programming for further employment in the field of information technology. I was advised to go to RS school. I decided first of all to master html and JScript. I will try to study the courses.
 3. Skills: 
-Interested in C #, want to learn JScript.
+I am well versed in radio engineering and electronics, technology, there are my developments of electronic devices, I program 1s77, arduino.
 4. Education:
 Graduated from:
-* Minsk Automobile College, specialty - mechanical technician.
-* BSUIR with a degree in Information Technology and Management Engineer.
+secondary special education
 5. Code examples:\
 CSS 
-~~~// CSS
-
+~~~// CS
 <style>
   .border{
     border: 1px solid #dee542;
   }
-  
   #no-border{
     border-style: none;
   }
   </style>
-
   <p class="border" id="no-border">оторый имеет «вес» 1000, а это значит</p>
 ~~~ 
 HTML

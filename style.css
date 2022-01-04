@@ -51,7 +51,7 @@
     }
     #footer2{
     height: 70px;
-    width: 10%;
+    width: 15%;
     background-color: rgb(255, 213, 65);
     opacity: 1.0;
     float: right;
@@ -100,9 +100,9 @@
     float: left;
     padding-left: -10px;
     border-radius: 50px 50px 50px 50px;}
-    #block4{height: 8px;
-    width: 70%;
-    margin-left: 15%;
+    #block4{height: 5px;
+    width: 80%;
+    margin-left: 10%;
     background-color: rgb(255, 213, 65);
     opacity: 1;
     float: left;
